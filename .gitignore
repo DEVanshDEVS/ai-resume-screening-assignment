@@ -1,0 +1,11 @@
+# Candidate data and generated screening output contain personal information.
+/resume_files/
+/results.json
+
+# Credentials and local Python artifacts.
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
